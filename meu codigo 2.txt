@@ -1,0 +1,33 @@
+como configurar o git no computador:
+
+git config --global user.email "escrever o email que foi cadastrado no github"
+
+git config --global user.name "Ex: Maria Silva Dev" (nome de preferencia profissional)
+
+____Então segue para fazer o commit
+
+
+git commit -m ""
+
+
+_____Definir nome repositorio no github
+
+_____opções de subir os projetos:
+
+git remode add origin (link do repositorio do github)
+
+git remote set-url origin (link do repositório do github)
+
+
+______Fazer um push (enviar ou empurrar para o github)
+
+git push
+
+ou
+
+git push --set-upstream origin master
+
+
+Caso não esteja logado na sua conta dp github, aparecerá uma tela indicando que o deve fazer(logar).
+
+Se já esta logado, basta atualizar a página do repositório.

@@ -1,0 +1,12 @@
+Verificar historicos de commit
+
+git reflog
+
+
+Retornar a versão anterior (caso cometa um equivoco na modificação)
+
+git reset --hard (digitar o id da versão anterior)
+
+Para refazar a alteração novamente, digitar o id da ultima modificação em vermelho.
+
+git reset --hard (id)

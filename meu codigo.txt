@@ -1,3 +1,14 @@
 Olá meu nome é Ivanilce!
 
 Olá eu sou uma nova linha!
+
+
+git init (inicia para um repositório)
+
+git status (mostra relatório dos arquivos adcionados)
+
+git add "meu codigo.txt" (adciona UM arquivo no controle de versão)
+
+git add . (adciona mais de um arquivo ao mesmo tempo no controle de versão)
+
+git commit -m (inicia um commit)
